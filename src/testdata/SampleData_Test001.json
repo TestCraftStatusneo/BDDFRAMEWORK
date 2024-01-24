@@ -1,0 +1,10 @@
+{
+  "SampleAppData": {
+    "link": "About Us",
+    "link_text": "about.htm"
+  },
+  "SampleAppData1": {
+    "link": "Services",
+    "link_text": "services.htm"
+  }
+}
